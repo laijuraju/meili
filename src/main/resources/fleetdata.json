@@ -1,0 +1,25 @@
+{
+	"fleet": [
+		{
+			"make": "Renault",
+			"model": "Captur",
+			"automaticTransmission": true,
+			"fuelType": "petrol",
+			"weeklyRentalPrice": 1234.22
+		},
+		{
+			"make": "Renault",
+			"model": "Volvo S60",
+			"automaticTransmission": false,
+			"fuelType": "diesel",
+			"weeklyRentalPrice": 1744.66
+		},
+		{
+			"make": "Hyundai",
+			"model": "Ioniq",
+			"automaticTransmission": true,
+			"fuelType": "electric",
+			"weeklyRentalPrice": 2098.34
+		}
+	]
+}

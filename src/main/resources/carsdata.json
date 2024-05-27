@@ -1,0 +1,26 @@
+{
+	"cars": [
+		{
+			"name": "Skoda Octavia",
+			"transmissionType": "manual",
+			"rentalCostPerDay": {
+				"tax": 10.23,
+				"cost": 40.87
+			},
+			"isElectric": false,
+			"isDiesel": false,
+			"isPetrol": true
+		},
+		{
+			"name": "BMW 3 Series",
+			"transmissionType": "automatic",
+			"rentalCostPerDay": {
+				"tax": 30.1,
+				"cost": 90.33
+			},
+			"isElectric": true,
+			"isDiesel": true,
+			"isPetrol": false
+		}
+	]
+}

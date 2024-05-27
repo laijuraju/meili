@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "com.meili.carfleet.resource.path.cars",
+    "type": "java.lang.String",
+    "description": "A description for 'com.meili.carfleet.resource.path.cars'"
+  },
+  {
+    "name": "com.meili.carfleet.resource.path.fleet",
+    "type": "java.lang.String",
+    "description": "A description for 'com.meili.carfleet.resource.path.fleet'"
+  }
+]}
